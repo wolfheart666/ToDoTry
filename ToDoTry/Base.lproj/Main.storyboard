@@ -49,6 +49,15 @@
                             <outlet property="delegate" destination="erI-hM-sFU" id="38J-ei-8sv"/>
                         </connections>
                     </tableView>
+                    <toolbarItems>
+                        <barButtonItem systemItem="add" id="9wm-dP-WCT">
+                            <color key="tintColor" red="0.10822341771318254" green="0.29404911695106506" blue="0.29807472229003906" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        </barButtonItem>
+                        <barButtonItem systemItem="add" id="bAB-tY-GXg">
+                            <color key="tintColor" red="0.063934483149999999" green="0.48778258549999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        </barButtonItem>
+                    </toolbarItems>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1VF-iR-DP0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
